@@ -8,13 +8,13 @@ description: > # this means to ignore newlines until "email:"
 
 email: contact@jlleblanc.com
 #blog logo
-# logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/logo.jpg"
 # blog cover
-# cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/cacti_and_flowers.jpg"
 
 name: 'Joe LeBlanc'
 author: 'Joe LeBlanc'
-# author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
