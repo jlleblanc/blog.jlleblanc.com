@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Joe LeBlanc's Blog"
+title: "Joe in Austin"
 description: > # this means to ignore newlines until "email:"
 
 email: contact@jlleblanc.com
