@@ -5,7 +5,6 @@ highlighter: pygments
 # Site settings
 title: "Joe LeBlanc's Blog"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
 
 email: contact@jlleblanc.com
 #blog logo
