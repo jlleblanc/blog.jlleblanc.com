@@ -2,7 +2,7 @@
 layout: post
 title:  "First pot of jambalaya"
 categories: cooking
-image: /assets/article_images/2015-03-11-first-pot-of-jambalaya/cooked_andouille.jpg
+image: /assets/article_images/2015-03-11-first-pot-of-jambalaya/header.jpg
 ---
 
 After putting it off too many times, I finally decided this past week to make a pot of my [grandpa's jambalaya](https://douglasleblanc.wordpress.com/2014/12/30/one-leblanc-tradition/). This has always been intimidating to me for several reasons. One reasons is that whenever my parents would make a pot, it would take a while to prepare. Mom and Dad have cooked larger batches for things like potlucks and high school graduations, freezing leftovers for a later treat. We didn't have a large cast iron pot (that I remember), so certain parts of the cooking would need to be done in batches.
