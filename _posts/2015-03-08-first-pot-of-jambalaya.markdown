@@ -42,4 +42,4 @@ Fortunately, I was able to find a cooking spoon strong enough to keep stirring. 
 
 My dinner guests arrived soon after and we dished up. I had forgotten to bring Tabasco sauce, but we ended up not needing it. Since this was the first time I'd really had jambalaya with andouille sausage (that I can remember), I underestimated the Scoville scale contribution it made. It was certainly very tasty and wasn't super spicy, but it did have more of a kick than I was anticipating.
 
-Everything turned out a little different than I was anticipating, but in the end, I felt like I'd done the recipe justice. Will definitely make it again, although I'll probably look into different sources for andouille sausage.
+Everything turned out a little different than I was anticipating, but in the end, I felt like I'd done the recipe justice. Will definitely make it again, although I'll probably keep the heat a little lower.
