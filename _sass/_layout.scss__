@@ -234,11 +234,3 @@
         }
     }
 }
-
-/**
- * Stuff Joe is adding
- */
-figure {
-    /* CSS (eyeroll) */
-    text-align: center;
-}
