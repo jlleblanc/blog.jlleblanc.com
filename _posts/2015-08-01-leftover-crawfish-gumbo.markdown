@@ -103,12 +103,15 @@ I then put in the rest of the vegetables. Some of the gumbo recipes I encountere
 
 ![Pot with vegetables and a somewhat red stock.]({{ site.url }}/assets/article_images/2015-08-01-leftover-crawfish-gumbo/reddish-pot.jpg)
 
+Fortunately, I had some more roux, so I put in the rest of that to stand up to some of the tomato flavor. The redness died down as the tomato paste got incorporated and I breathed a sigh of relief. I skimmed off some of the fat and froth as it boiled to the top.
 
-Fortunately, I had some more roux, so I put in the rest of that to stand up to some of the tomato flavor. The redness died down as the tomato paste got incorporated and I breathed a sigh of relief. After simmering the gumbo and giving the flavors a chance to meld, I then added my meat, corn, parsley, and green onion. I left the gumbo on the heat just long enough to heat everything through. 
+![You don't wanna eat this.]({{ site.url }}/assets/article_images/2015-08-01-leftover-crawfish-gumbo/fat-off-the-top.jpg)
+
+After simmering the gumbo and giving the flavors a chance to meld, I then added my meat, corn, parsley, and green onion. I left the gumbo on the heat just long enough to heat everything through. 
 
 ![Leftover Crawfish Gumbo, ready to eat.]({{ site.url }}/assets/article_images/2015-08-01-leftover-crawfish-gumbo/ready-to-serve.jpg)
 
-I then started putting a few servings into pint containers before putting the mushrooms in. After heating the mushrooms through, I was finally ready to eat.
+I then started putting a few servings into pint containers before putting the mushrooms in. After heating the mushrooms through, it was finally ready to eat.
 
 ![A bowl of gumbo.]({{ site.url }}/assets/article_images/2015-08-01-leftover-crawfish-gumbo/finished-product.jpg)
 
