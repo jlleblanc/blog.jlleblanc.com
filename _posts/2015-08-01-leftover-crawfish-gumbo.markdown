@@ -11,11 +11,11 @@ The next day, I started searching for leftover crawfish recipes. My mind was on 
 
 To settle the matter, I once again opened the LeBlanc family cookbook. Upon finding Crawfish Bisque in the index, I turned to the recipe, completely unaware of what I was about to see. The ingredients list was broken into two sections and took up more than half a page. The recipe in total was more than two pages long. And then I saw the very first sentence:
 
-	This is a labor-intensive Creole delicacy, best attempted by a team of 2 or more persons.
+"This is a labor-intensive Creole delicacy, best attempted by a team of 2 or more persons."
 
 Oops. While I wanted to make more than an omelet, I wasn't prepared to make the Creole equivalent of Peking Duck. I smiled and decided to read on to get some ideas. The next bit was about roux.
 
-	To give the gravy its color, cook the roux until it is dark brown or several shades darker than a paper bag (or see Sherwin Williams paint sample [SW 6097 Sturdy Brown](https://www.sherwin-williams.com/homeowners/color/find-and-explore-colors/paint-colors-by-family/SW6097-sturdy-brown/#/6097/?s=products&p=PS0)).
+"To give the gravy its color, cook the roux until it is dark brown or several shades darker than a paper bag (or see Sherwin Williams paint sample SW 6097 Sturdy Brown)."
 
 I have to admit, I laughed out loud. The last thing I ever expected to find in the family cookbook was a comparison to a paint chip sample. I've made attempts at roux before and have generally been pleased with the results, but I confess most of my roux has ended up on the "blond" side. I'm usually going a little too fast, making a bit less than the recipe is calling for, and not wanting to chance scorching it.
 
@@ -63,7 +63,7 @@ I didn't have any okra for thickening the gumbo, so this left me with one major 
 
 I worked fairly quickly and probably at a higher flame setting than most roux makers would recommend. I did however keep my spoon in the pot, stirring and scraping constantly to avoid scorching. Oil droplets frequently splattered on my shirt and arms as I stirred.
 
-Due to camera, screen, and print differences, I'm not sure how close to "SW 6097 Sturdy Brown" I got. You be the judge.
+Due to camera, screen, and print differences, I'm not sure how close to "[SW 6097 Sturdy Brown](https://www.sherwin-williams.com/homeowners/color/find-and-explore-colors/paint-colors-by-family/SW6097-sturdy-brown/#/6097/?s=products&p=PS0)" I got. You be the judge.
 
 ![Roux in a glass measuring cup.]({{ site.url }}/assets/article_images/2015-08-01-leftover-crawfish-gumbo/finished-roux.jpg)
 
@@ -112,7 +112,7 @@ I then started putting a few servings into pint containers before putting the mu
 
 ![A bowl of gumbo.]({{ site.url }}/assets/article_images/2015-08-01-leftover-crawfish-gumbo/finished-product.jpg)
 
-While I was able to taste some tomato faintly, it wasn't distracting. The spices from the crawfish boil came through and the roux did it's job. 
+While I was able to taste some tomato faintly, it wasn't distracting. The spices from the crawfish boil came through and the roux did its job. 
 
 The gumbo was tasty, but there was one major omission from my dinner bowl: rice. It was hot out and my birthday weekend, so I decided to not bother with rice. I did have a loaf of French bread, so I sliced off some off that, since a dish like this is screaming to be round out with carbs of some sort.
 
