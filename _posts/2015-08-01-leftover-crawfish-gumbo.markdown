@@ -5,7 +5,7 @@ categories: cooking
 image: /assets/article_images/2015-08-01-leftover-crawfish-gumbo/stock.jpg
 ---
 
-I've had the privilege of attending not one, but two crawfish boils this year. There were quite a few leftovers at the second one, so I gladly received a offered bag of mudbugs. "You can make an omelet[^1] with the tail meat in the morning," one of my hosts suggested. Little did he know I had greater ambitions than breakfast. I knew I had these greater ambitions, I just didn't know what they specifically were yet.
+I've had the privilege of attending not one, but two crawfish boils this year. There were quite a few leftovers at the second one, so I gladly received an offered bag of mudbugs. "You can make an omelet[^1] with the tail meat in the morning," one of my hosts suggested. Little did he know I had greater ambitions than breakfast. I knew I had these greater ambitions, I just didn't know what they specifically were yet.
 
 The next day, I started searching for leftover crawfish recipes. My mind was on something soup or stew related. One blog suggested making crawfish bisque and offered a recipe. This looked interesting, but I knew I was venturing into some murky waters. A lot of people carelessly throw around terms like bisque, etouffee, jambalaya, and gumbo without any respect to what all of those dishes actually are.
 
