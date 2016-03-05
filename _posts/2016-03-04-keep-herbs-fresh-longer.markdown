@@ -11,11 +11,11 @@ I've come up with a system to keep herbs fresher. It involves keeping the herbs 
 
 ![]({{ site.url }}/assets/article_images/2016-03-04-keep-herbs-fresh-longer/in-bag.jpg)
 
-First let's take a look at this piece of parsley that I bought from the grocery store. You'll notice that it has some condensation around the edges of the bag. This is what is going to cause the parsley to rot if I don't take care of it right away. Get the bag off this parsely now, but set the bag aside instead of throwing it away.
+First let's take a look at this bunch of parsley from the grocery store. You'll notice that it has some condensation around the edges of the bag. This is what is going to cause the parsley to rot if it isn't taken care of it right away. Get the bag off this parsely now, but set the bag aside instead of throwing it away.
 
 ![]({{ site.url }}/assets/article_images/2016-03-04-keep-herbs-fresh-longer/empty-glass.jpg)
 
-Next, I'm going to get a small juice glass. The important thing about selecting a cup or glass is diameter. You obviously need a diameter wide enough to fit the stems of the herbs. Less obviously, you don't want to get a glass too big in diameter. Otherwise, the leaves of the of the herbs are going to spill out over the edge, the stems will go all over the place, which will ultimately deprive the herbs of water. So make sure that whatever vessel you use is narrow enough that the herbs will stand up straight.
+Next, get a small juice glass. The important thing about selecting a cup or glass is diameter. You obviously need a diameter wide enough to fit the stems of the herbs. Less obviously, you don't want to get a glass too big in diameter. Otherwise, the leaves of the of the herbs are going to spill out over the edge, the stems will go all over the place, and the herbs will ultimately be deprived of water. So make sure that whatever vessel you use is narrow enough that the herbs will stand up straight.
 
 ![]({{ site.url }}/assets/article_images/2016-03-04-keep-herbs-fresh-longer/glass-with-water.jpg)
 
@@ -36,4 +36,4 @@ The trick is that the bag helps maintain the humidity of the air around the herb
 
 ![]({{ site.url }}/assets/article_images/2016-03-04-keep-herbs-fresh-longer/bag-over-parsley.jpg)
 
-Congratulations! Your herbs are in a glass, covered, watered, and not damp. They should stay fresh for well over a week without wilting or turning into a science experiment! 
+Congratulations! Your herbs are in a glass, covered, watered, and not damp. They should stay fresh for well over a week in the refrigerator without wilting or turning into a science experiment! 
