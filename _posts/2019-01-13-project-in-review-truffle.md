@@ -21,8 +21,8 @@ I had a lot of plans for Truffle and for finding ways of getting people involved
 ```
 {
   "Comment": "Sometimes Netflix's content is unsettlingly targeted!",
-	"TV show": "Tidying Up With Marie Kondo",
-	"Enneagram type": 1
+  "TV show": "Tidying Up With Marie Kondo",
+  "Enneagram type": 1
 }
 ```
 
