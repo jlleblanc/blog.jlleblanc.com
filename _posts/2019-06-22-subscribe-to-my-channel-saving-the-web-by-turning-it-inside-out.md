@@ -8,12 +8,6 @@ The alternatives aren't much better. Email won't die, but it also will never be 
 
 Every app and website maes you sign an End User Licence Agreement you don't read stating just how much data you're giving them and how they have unlimited rights to use it, all so you can create an account on their system which they control. If you don't supply a Facebook or Google account, you have to supply a password, which they are certain to [mishandle](https://techcrunch.com/2019/04/18/instagram-password-leak-millions/) at some point.
 
-The result is that your data is scattered around the Internet in different formats, which you may or may not be able to access. You might have a paper trail if your email has receipts, but you may have deleted them.The Web is in crisis. Tim Berners-Lee himself is concerned about the "[downward plunge to a dysfunctional future](https://www.bbc.com/news/technology-47524474)." Facebook [leaks our personal data](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal) and [gets hacked](https://techcrunch.com/2018/09/28/everything-you-need-to-know-about-facebooks-data-breach-affecting-50m-users/). Slack is slick, but expensive and designed around work.
-
-The alternatives aren't much better. Email won't die, but it also will never be anywhere near as useful as we would hope it could be. SMS would be a great alternative, if it weren't so limited, [insecure](https://www.theverge.com/2017/9/18/16328172/sms-two-factor-authentication-hack-password-bitcoin), and spammable. 
-
-Every app and website makes you sign an End User Licence Agreement you don't read stating just how much data you're giving them and how they have unlimited rights to use it, all so you can create an account on their system which they control. If you don't supply a Facebook or Google account, you have to supply a password, which they are certain to [mishandle](https://techcrunch.com/2019/04/18/instagram-password-leak-millions/) at some point.
-
 The result is that your data is scattered around the Internet in different formats, which you may or may not be able to access. You might have a paper trail if your email has receipts, but you may have deleted them.
 
 Does it have to be this way? Do we just give up and hope for the best? Do we continue to funnel our communication through companies that only seem to care when they get caught doing something less than ethical?
