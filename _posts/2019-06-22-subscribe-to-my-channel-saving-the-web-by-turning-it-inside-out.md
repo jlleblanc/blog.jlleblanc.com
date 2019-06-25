@@ -6,7 +6,7 @@ The Web is in crisis. Tim Berners-Lee himself is concerned about the "[downward 
 
 The alternatives aren't much better. Email won't die, but it also will never be anywhere near as useful as we would hope it could be. SMS would be a great alternative, if it weren't so limited, [insecure](https://www.theverge.com/2017/9/18/16328172/sms-two-factor-authentication-hack-password-bitcoin), and spammable. 
 
-Every app and website maes you sign an End User Licence Agreement you don't read stating just how much data you're giving them and how they have unlimited rights to use it, all so you can create an account on their system which they control. If you don't supply a Facebook or Google account, you have to supply a password, which they are certain to [mishandle](https://techcrunch.com/2019/04/18/instagram-password-leak-millions/) at some point.
+Every app and website makes you sign an End User Licence Agreement you don't read stating just how much data you're giving them and how they have unlimited rights to use it, all so you can create an account on their system which they control. If you don't supply a Facebook or Google account, you have to supply a password, which they are certain to [mishandle](https://techcrunch.com/2019/04/18/instagram-password-leak-millions/) at some point.
 
 The result is that your data is scattered around the Internet in different formats, which you may or may not be able to access. You might have a paper trail if your email has receipts, but you may have deleted them.
 
