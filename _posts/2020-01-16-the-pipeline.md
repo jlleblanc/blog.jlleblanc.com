@@ -18,5 +18,5 @@ Alternatively, going to the juice shop is a special treat you enjoy on occasion.
 
 You can also search The Pipeline for all unexpired coupons from all sources, without necessarily receiving notifications for them. Since The Pipeline is not controlled by any one company, you can use whatever software you wish to search and sort those coupons.
 
-And this is all the beginning. You can use The Pipeline to run an organization or business without hiring a software engineer to set up a bunch of complicated software. Just like you do with The Pipeline for your personal use, you can read, ingore, sort, and redirect incoming messages with any software you like.
+And this is all the beginning. You can use The Pipeline to run an organization or business without hiring a software engineer to set up a bunch of complicated software. Just like you do with The Pipeline for your personal use, you can read, ignore, sort, and redirect incoming messages with any software you like.
 
