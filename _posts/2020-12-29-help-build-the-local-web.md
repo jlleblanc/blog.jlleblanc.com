@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let's Build the Local Web"
+title:  "Help Build the Local Web"
 ---
 
 I need your help.
