@@ -2,7 +2,6 @@
 layout: post
 title:  "Help Build the Local Web"
 ---
-
 I need your help.
 
 If you know anything about me, you know that I’m a coder. One of the quirks of being a coder is that whenever I see a problem, I want to grab my laptop and start writing software.
@@ -14,7 +13,6 @@ The World Wide Web set out to become a decentralized publishing platform, which 
 If you live in the United States, add up what you and your household are paying for broadband Internet and cellphones. Your total is likely upwards of $150 per month. For all of that money, you gain access to a social media world where algorithms are used to track your behavior and sell your personal data.
 
 We deserve much better. We deserve a high-trust, non-corporate, algorithm-free, person-centric local web where the context in which we are communicating is known.
-
 ## This is where your help comes in
 
 If I try to do this on my own, not only will I get lost wandering through technical details, I will get burnt out. But I am convinced that with your help, we can build the Local Web. We can start by talking about these topics:
