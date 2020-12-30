@@ -31,4 +31,4 @@ Beyond this Slack group, I currently have a workshop proposal for MozFest 2021, 
 
 You can be as involved in the project as you would like. At a minimum, I will have an introductory, open-ended question: what does “local” look like when the Internet is available worldwide?
 
-If this at all interests you, please join. If you are not necessarily interested but know of someone who would be, please pass this post along to them!
+If this at all interests you, please [send me a message](mailto:contact@jlleblanc.com?subject=Interested%20in%20building%20the%20Local%20Web). If you are not necessarily interested but know of someone who would be, please pass this post along to them!
