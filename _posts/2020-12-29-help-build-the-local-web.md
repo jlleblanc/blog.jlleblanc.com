@@ -2,15 +2,16 @@
 layout: post
 title:  "Help Build the Local Web"
 ---
+
+_Last updated: January 1, 2021_
+
 I need your help.
 
 If you know anything about me, you know that I’m a coder. One of the quirks of being a coder is that whenever I see a problem, I want to grab my laptop and start writing software.
 
 The older I get, the more I realize the hardest challenges with technology are not about devices, networks, and software. The hardest challenges are about the social contracts and expectations we have around using technology.
 
-The World Wide Web set out to become a decentralized publishing platform, which it largely is. However, it has been superseded by centrally-controlled, corporate-owned social media platforms. Social media now drives the Internet and heavily influences how we use it. Official and unofficial rules of social media determine what we can post, how we can communicate, and even how we define our relationships. Even worse, “viral” content shared in an unclear, global context has amplified misinformation and disinformation. 
-
-If you live in the United States, add up what you and your household are paying for broadband Internet and cellphones. Your total is likely upwards of $150 per month. For all of that money, you gain access to a social media world where algorithms are used to track your behavior and sell your personal data.
+The World Wide Web set out to become a decentralized publishing platform, which it largely is. However, it has been superseded by centrally-controlled, corporate-owned social media platforms. Social media now drives the Internet and heavily influences how we use it. Official and unofficial rules of social media determine what we can post, how we can communicate, and even how we define our relationships. Even worse, “viral” content shared in an unclear, global context has amplified misinformation and disinformation. Meanwhile, algorithms track our behavior and sell our personal data.
 
 We deserve much better. We deserve a high-trust, non-corporate, algorithm-free, person-centric local web where the context in which we are communicating is known.
 ## This is where your help comes in
@@ -23,6 +24,13 @@ If I try to do this on my own, not only will I get lost wandering through techni
 * How we can ensure people, not algorithm-driven profiteering, will always be first
 
 You do not need to be a coder to join this effort. While people may be writing code at some point, we will be focusing more on “what could be” than “what we can code today.”
+
+## What this might ultimately look like
+After having these discussion, there are many ways we could proceed with building a local web. One way would be to store data on our local computers, then share that data directly with each other rather than going through a server.
+
+Landline phones and answering machines from the 90's are a good analogy. You could call someone up and talk to them in real time or leave a message on their answering machine. While your voice message did go over the centralized phone lines, it would ultimately be stored on the answering machine itself. These messages were not stored in perpetuity to be data mined later, they were almost always deleted as soon as they were heard. You could also use the greeting to convey information (e.g., "we can't come to this phone right now, but you can try calling our other line to see if we pick up there.")
+
+Our computers and devices could play a similar role. We would store our data locally then only share it with people we know and trust. This would cut social media platforms out of the picture entirely.
 
 ## How you can get involved
 I have a Slack group ready to aid our efforts. If you are unfamiliar with Slack, I would be happy to introduce it to you. There are Slack apps available for both your mobile device and your desktop.
