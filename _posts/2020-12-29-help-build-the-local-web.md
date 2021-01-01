@@ -3,7 +3,7 @@ layout: post
 title:  "Help Build the Local Web"
 ---
 
-_Last updated: January 1, 2021_
+_[Last updated: January 1, 2021](https://github.com/jlleblanc/blog.jlleblanc.com/blob/gh-pages/_posts/2020-12-29-help-build-the-local-web.md)_
 
 I need your help.
 
