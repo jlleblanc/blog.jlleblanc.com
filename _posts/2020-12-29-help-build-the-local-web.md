@@ -3,7 +3,7 @@ layout: post
 title:  "Help Build the Local Web"
 ---
 
-_[Last updated: January 1, 2021](https://github.com/jlleblanc/blog.jlleblanc.com/blob/gh-pages/_posts/2020-12-29-help-build-the-local-web.md)_
+_[Last updated: January 3, 2021](https://github.com/jlleblanc/blog.jlleblanc.com/blob/gh-pages/_posts/2020-12-29-help-build-the-local-web.md)_
 
 I need your help.
 
@@ -26,7 +26,7 @@ If I try to do this on my own, not only will I get lost wandering through techni
 You do not need to be a coder to join this effort. While people may be writing code at some point, we will be focusing more on “what could be” than “what we can code today.”
 
 ## What this might ultimately look like
-After having these discussion, there are many ways we could proceed with building a local web. One way would be to store data on our local computers, then share that data directly with each other rather than going through a server.
+There are many ways we could proceed with building a local web. One way would be to store data on our local computers, then share that data directly with each other rather than going through a server.
 
 Landline phones and answering machines from the 90's are a good analogy. You could call someone up and talk to them in real time or leave a message on their answering machine. While your voice message did go over the centralized phone lines, it would ultimately be stored on the answering machine itself. These messages were not stored in perpetuity to be data mined later, they were almost always deleted as soon as they were heard. You could also use the greeting to convey information (e.g., "we can't come to this phone right now, but you can try calling our other line to see if we pick up there.")
 
