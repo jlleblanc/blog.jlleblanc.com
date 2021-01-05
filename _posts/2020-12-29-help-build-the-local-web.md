@@ -24,6 +24,7 @@ To focus on "what could be," we will have discussions around topics like (but no
 * Experiences we’ve had (positive and negative) using social media
 * What we know we could do if we didn’t always have to go through Facebook, Google, and Twitter
 * How we can ensure people, not algorithm-driven profiteering, will always be first
+
 ## What this might ultimately look like
 There are many ways we could proceed with building a local web. One way would be to store data on our local computers, then share that data directly with each other rather than going through a server.
 
