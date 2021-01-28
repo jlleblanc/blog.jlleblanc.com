@@ -3,7 +3,7 @@ layout: post
 title:  "Help Build the Local Web"
 ---
 
-_[Last updated: January 4, 2021](https://github.com/jlleblanc/blog.jlleblanc.com/blob/gh-pages/_posts/2020-12-29-help-build-the-local-web.md)_
+_[Last updated: January 28, 2021](https://github.com/jlleblanc/blog.jlleblanc.com/blob/gh-pages/_posts/2020-12-29-help-build-the-local-web.md)_
 
 I need your help.
 
@@ -17,11 +17,11 @@ We deserve much better. We deserve a high-trust, non-corporate, algorithm-free, 
 ## This is where your help comes in
 If I try to do this on my own, not only will I get lost wandering through technical details, I will get burnt out. But I am convinced that with your help, we can build the Local Web.
 
-I need your help with determining what the Local Web will look like and how we will expect it to behave. To accomplish this, **I'm asking you to engage in a discussion with other people who are also interested in seeing the Local Web become reality.** You do not need to be a coder to join this effort. While some people in the group may be writing code at some point, we will be focusing more on a discussion around “what could be” rather than “what can we code today.”
+I need your help with determining what the Local Web will look like and how we will expect it to behave. To accomplish this, **I'm asking you to join a community of people who are also interested in seeing the Local Web become reality.** You do not need to be a coder to join. While some people in the group may be writing code at some point, we will be focusing more on a discussion around “what could be” rather than “what can we code today.”
 
 To focus on "what could be," we will have discussions around topics like (but not limited to) these:
 
-* Experiences we’ve had (positive and negative) using social media
+* If we could start all over, what values would we build into the Internet?
 * What we know we could do if we didn’t always have to go through Facebook, Google, and Twitter
 * How we can ensure people, not algorithm-driven profiteering, will always be first
 
@@ -33,10 +33,10 @@ Landline phones and answering machines from the 90's are a good analogy. You cou
 Our computers and devices could play a similar role. We would store our data locally then only share it with people we know and trust. This would cut social media platforms out of the picture entirely.
 
 ## How you can get involved
-You can be as involved in the project as you would like. For the moment, the focus is on having a discussion about what the Local Web should look like and how it should behave. 
+You can be as involved in the project as you would like. For the moment, the focus is on having a discussion about what the Local Web should look like and the values it should have. 
 
 I have a Slack group ready for us to host this discussion. Slack is a flexible chat service. Among other benefits, Slack makes it possible to have discussions like these without them getting lost in email. There are Slack apps available for both your mobile device and your desktop with customizable nofitications.
 
-Beyond this Slack group, I currently have a [workshop proposal](https://pretalx.com/mozfest-2021/talk/review/NP89FKFXVEJCBELGV7CU8VVRZL7FKHLU) for MozFest 2021, which will occur in March. Decisions on proposed sessions will be made soon and there is the possibility that mine will not be selected. Regardless of whether the session is selected, I would like to prepare for this workshop to be run multiple times. With your help, I’ll be able to ask better questions and run better workshops.
+Beyond this Slack group, I currently have a [workshop](https://pretalx.com/mozfest-2021/talk/review/NP89FKFXVEJCBELGV7CU8VVRZL7FKHLU) schedule for MozFest 2021, which will occur in March. While I am preparing specifically for MozFest right now, I would like to prepare for this workshop to be run multiple times. With your help, I’ll be able to ask better questions and run better workshops.
 
 If this at all interests you, please [send me a message](mailto:contact@jlleblanc.com?subject=Interested%20in%20building%20the%20Local%20Web). If you are not necessarily interested but know of someone who would be, please pass this post along to them!
