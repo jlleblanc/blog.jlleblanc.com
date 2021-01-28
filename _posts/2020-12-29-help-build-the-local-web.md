@@ -37,6 +37,6 @@ You can be as involved in the project as you would like. For the moment, the foc
 
 I have a Slack group ready for us to host this discussion. Slack is a flexible chat service. Among other benefits, Slack makes it possible to have discussions like these without them getting lost in email. There are Slack apps available for both your mobile device and your desktop with customizable nofitications.
 
-Beyond this Slack group, I currently have a [workshop](https://pretalx.com/mozfest-2021/talk/review/NP89FKFXVEJCBELGV7CU8VVRZL7FKHLU) schedule for MozFest 2021, which will occur in March. While I am preparing specifically for MozFest right now, I would like to prepare for this workshop to be run multiple times. With your help, I’ll be able to ask better questions and run better workshops.
+Beyond this Slack group, I currently have a [workshop](https://pretalx.com/mozfest-2021/talk/review/NP89FKFXVEJCBELGV7CU8VVRZL7FKHLU) scheduled for MozFest 2021, which will occur in March. While I am preparing this workshop specifically for MozFest right now, I would like to also run it outside MozFest as well. With your help, I’ll be able to ask better questions and run better workshops.
 
 If this at all interests you, please [send me a message](mailto:contact@jlleblanc.com?subject=Interested%20in%20building%20the%20Local%20Web). If you are not necessarily interested but know of someone who would be, please pass this post along to them!
