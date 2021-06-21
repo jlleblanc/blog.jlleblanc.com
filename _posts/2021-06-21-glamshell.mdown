@@ -1,0 +1,17 @@
+
+---
+layout: post
+title:  "Glamshell"
+---
+
+Today, I’m introducing a new handle for myself. I was a teenager when I originally chose "jlleblanc", which is my first and middle initials combined with my last name. In the late-nineties Internet, a lot of people took the opportunity to create handles not involving their real names. This made it possible for them to present themselves as anyone they wanted to be. 
+
+The idea of doing something like this never really occurred to me back then. I was happy with putting my real name on everything rather than trying to construct an alternate online persona. However, what I’ve come to realize is that "jlleblanc" ironically functions as a mask I can hide behind. It’s plain, bland, vanilla, inoffensive, and basic. It doesn’t say anything about who I am or what I stand for. It’s just my name.
+
+My new handle "[glamshell](https://posts.jlleblanc.com/glamshell)" has ties back to both queerness and coding. A "shell" is another term for the green-on-black terminal screens you sometimes see in movies (e.g., The Matrix.) I find this whole color scheme to be boring and unnecessarily foreboding. It has this air of adolescent one-upmanship where only the 1337 h4x0r$ know how to use the scary looking terminal.
+
+In contrast, I believe coding should be approachable and available to everyone. That starts with adjusting your tools to be comfortable for you and to inspire you. Part of adopting this new handle has also meant making my shell a little more fabulous!
+
+Many people use the Solarized Light color palette as the theme for their shells. I’ve started with that palette, changed the background to a light blue and added a splash of hot pink. It’s reminiscent of the computer I first learned to code on: a blue-LCD screen Zenith computer Dad brought home from work.
+
+With my shell theme in place, I’ve changed my display name in a few Slack groups from "jlleblanc" to "glamshell." While I have been inspired by people who have renamed themselves later in life, this is not a renaming of myself: my name is still Joe. Rather, "glamshell" is a new handle I’ll be using on the Internet and social media (if I can convince myself to get back on it!)
