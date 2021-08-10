@@ -3,7 +3,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Site settings
-title: "Joe in Austin"
+title: "Joe's Blog"
 description: > # this means to ignore newlines until "email:"
 
 email: contact@jlleblanc.com
